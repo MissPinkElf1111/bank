@@ -1,17 +1,19 @@
-**Bank Simulator**
-****
-  The program in this repository is a simulator of an ATM working process, which is writed in Java. Users can login their account, check their balance, and making eposit or withdraw.
+# Bank Simulator
 
-**Project Structure**
-****
-  Main.java - This file simulates the process of an ATM
-  Authenticator.java - This file simulates the authentication data
-  Balance.java - This file simulates the manupulation to the users' balance
+The program in this repository is a simulator of an ATM working process, written in Java. Users can log in to their account, check their balance, and make deposits or withdrawals.
 
-**Features**
-****
-  authentication - to verify the users' accounts
-  view - to check the users' balance
-  setBalance - to create an initial balance for an account
-  deposit - to increase the balance
-  withdraw - to reduce the balance
+## Project Structure
+- **Main.java** - Simulates the process of an ATM.
+- **Authenticator.java** - Manages authentication data for verifying users.
+- **Balance.java** - Manages user balance operations.
+
+## Features
+- **Authentication** - Verifies user accounts.
+- **View** - Allows users to check their balance.
+- **setBalance** - Sets an initial balance for an account.
+- **Deposit** - Increases the account balance.
+- **Withdraw** - Reduces the account balance.
+
+---
+
+This simulator provides a simple way to simulate ATM functionalities and user account operations.
