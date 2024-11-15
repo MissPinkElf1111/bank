@@ -4,7 +4,7 @@ The program in this repository is a simulator of an ATM working process, which i
 
 **Project Structure**
 ****
-Main.java - This file simulates the process of an ATM
+Main.java - This file simulates the process of an ATM \n
 Authenticator.java - This file simulates the authentication data
 Balance.java - This file simulates the manupulation to the users' balance
 
