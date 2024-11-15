@@ -34,7 +34,7 @@ public class Balance {
     }
 
     public static void main(String[] args){
-        setBalance(2000);
+        setBalance(1000);
         view();
         deposit();
         withdraw();
